@@ -78,3 +78,53 @@ Step 4 : Interact with the Application:
     Once the HTML file is open in your web browser, you can interact with the tax calculator just as you would on a live website. Input values into the fields, click the submit button, and observe how the calculations and error messages behave
 
 ## Test Cases
+
+**Test Case 1: When users hover over the question mark icons, tooltips will be displayed. These tooltips provide additional information regarding the respective fields.**
+
+<img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/8442eb8f-fe07-4c3d-8ed5-cb3f6c4b98e2" alt="test case 1(tooltip)" width="500"/><br/>
+
+**Test Case 2: In case users input negative values into number fields, error icons will be triggered. These fields exclusively accept non-negative integers. Consequently, an error message will be shown, indicating "Please input non-negative numbers only.**
+
+<img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/75086cf5-109c-4a6b-a60d-29d889a1dbff" alt="test case 2(Positive Numbers Only)" width="500"/><br/>
+
+**Test Case 3: Upon clicking the submit button without providing any input, error icons will appear. These icons indicate mandatory fields that require user input. The associated error message will be displayed as "This input field is mandatory**<br/>
+
+Image 1: Before
+<img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/b43e4138-acf0-496b-ae49-bc07029824e7" alt="Test Case 3" width="500"/><br/>
+Image 2: After clicking the submit button for empty fields
+<img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/946895f6-468e-44ab-a15c-c1cd9cf5a091" alt="Test Case 3" width="500"/><br/>
+
+**Test Case 4: Upon clicking the submit button without selecting an age group from the dropdown menu, error icons will appear next to the dropdown. These icons indicate that selecting an age group is mandatory. The associated error message will be displayed as "Select an age group."**
+
+<img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/d72c880c-b059-4ce7-bad5-8ee91627fd70
+" alt="test case 4" width="500"/><br/>
+
+**Test Case 5 : Output Results**
+_1. If the sum of Gross Income and Extra Income, minus Total Deductions, is less than or equal to 8 lakhs, then no income tax is applicable. In this case, the overall income will be the sum of Gross Income and Extra Income._
+
+<img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/283f6c88-03b3-49b6-bc7a-85e74a8fc590
+" alt="Test Case 5(1)" width="500"/><br/>
+
+<img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/85ddc308-7def-4cc8-8649-72fe559d0e4e
+" alt="Test Case 5(1) Result" width="500"/><br/>
+
+_2. Age < 40_
+<img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/cda2ea64-9007-4573-ae1b-da697c5adaf1
+" alt="Test Case 5(2)" width="500"/><br/>
+
+<img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/2de0a9c7-f9e1-452a-81e1-51ba1737c719
+" alt="Test Case 5(2) Result" width="500"/><br/>
+
+_3. Age ≥ 40 & < 60_
+<img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/d2b86eb6-4459-44e5-888a-72de41ae1d24
+" alt="Test Case 5(2)" width="500"/><br/>
+
+<img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/4a058ff0-b1f8-46b5-af52-212f7c4a87bd
+" alt="Test Case 5(2) Result" width="500"/><br/>
+
+_4. Age ≥ 60_
+<img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/9c275cb5-bc3d-4cc6-9d7b-a218baa5c75d
+" alt="Test Case 5(2)" width="500"/><br/>
+
+<img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/c181b5c2-64d9-449a-864c-d89141ffca93
+" alt="Test Case 5(2) Result" width="500"/><br/>
