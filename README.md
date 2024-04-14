@@ -99,7 +99,7 @@ Image 2: After clicking the submit button for empty fields
 <img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/d72c880c-b059-4ce7-bad5-8ee91627fd70
 " alt="test case 4" width="500"/><br/>
 
-**Test Case 5 : Output Results**
+**Test Case 5 : Output Results**<br/>
 _1. If the sum of Gross Income and Extra Income, minus Total Deductions, is less than or equal to 8 lakhs, then no income tax is applicable. In this case, the overall income will be the sum of Gross Income and Extra Income._
 
 <img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/283f6c88-03b3-49b6-bc7a-85e74a8fc590
