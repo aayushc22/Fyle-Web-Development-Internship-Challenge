@@ -189,7 +189,7 @@ h2 {
 #result {
   z-index: 5;
   position: absolute;
-  top: -1.1%;
+  top: -1%;
   left: -50px;
   background: var(--text-color);
   width: 500px;
