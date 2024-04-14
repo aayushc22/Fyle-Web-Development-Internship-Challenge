@@ -106,16 +106,20 @@ _1. If the sum of Gross Income and Extra Income, minus Total Deductions, is less
 <img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/85ddc308-7def-4cc8-8649-72fe559d0e4e" alt="Test Case 5(1) Result" width="500"/><br/>
 
 _2. Age < 40_
+<br/>
+
 <img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/cda2ea64-9007-4573-ae1b-da697c5adaf1" alt="Test Case 5(2)" width="500"/><br/>
 
 <img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/2de0a9c7-f9e1-452a-81e1-51ba1737c719" alt="Test Case 5(2) Result" width="500"/><br/>
 
 _3. Age ≥ 40 & < 60_
+<br/>
 <img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/d2b86eb6-4459-44e5-888a-72de41ae1d24" alt="Test Case 5(2)" width="500"/><br/>
 
 <img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/4a058ff0-b1f8-46b5-af52-212f7c4a87bd" alt="Test Case 5(2) Result" width="500"/><br/>
 
 _4. Age ≥ 60_
+<br/>
 <img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/9c275cb5-bc3d-4cc6-9d7b-a218baa5c75d" alt="Test Case 5(2)" width="500"/><br/>
 
 <img src="https://github.com/ayushtya9i/Fyle-Web-Development-Internship-Challenge/assets/86874794/c181b5c2-64d9-449a-864c-d89141ffca93" alt="Test Case 5(2) Result" width="500"/><br/>
