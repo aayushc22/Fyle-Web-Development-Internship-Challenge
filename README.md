@@ -2,6 +2,10 @@
 
 This tool helps you figure out how much money you'll have left after paying taxes. It takes into account your main income, any extra money you make, your age group, and any deductions you can claim.
 
+# Live Deployed link
+
+https://ayushtya9i.github.io/Fyle-Web-Development-Internship-Challenge/
+
 # How it works
 
 Input Your Income: First, you tell the calculator how much you earn in a year. This includes your salary from your job.
